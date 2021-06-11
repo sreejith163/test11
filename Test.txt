@@ -1,0 +1,63 @@
+
+        <!-- <div class="funnel-container">
+          <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-2">
+              <label class="funnel-content-label">Customers Contacted</label>
+            </div>
+            <div class="col-lg-10 col-md-10 col-sm-10 padding-t-5">
+              <span class="funnel-progress width-100-p">
+                <label class="padding-r-10">100</label>
+              </span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-2">
+              <label class="funnel-content-label">Responses Recieved</label>
+            </div>
+            <div class="col-lg-10 col-md-10 col-sm-10 padding-t-5">
+              <span class="funnel-progress width-80-p">
+                <label class="padding-r-10">80</label>
+              </span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-2">
+              <label class="funnel-content-label">Promise to Pay</label>
+            </div>
+            <div class="col-lg-10 col-md-10 col-sm-10 padding-t-5">
+              <span class="funnel-progress width-50-p">
+                <label class="padding-r-10">50</label>
+              </span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-2">
+              <label class="funnel-content-label">Payment Initiated</label>
+            </div>
+            <div class="col-lg-10 col-md-10 col-sm-10 padding-t-5">
+              <span class="funnel-progress width-40-p">
+                <label class="padding-r-10">40</label>
+              </span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-2">
+              <label class="funnel-content-label">Payment Completed</label>
+            </div>
+            <div class="col-lg-10 col-md-10 col-sm-10 padding-t-5">
+              <span class="funnel-progress width-30-p">
+                <label class="padding-r-10">30</label>
+              </span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-2">
+              <label class="funnel-content-label">Loans to be restructured</label>
+            </div>
+            <div class="col-lg-10 col-md-10 col-sm-10 padding-t-5">
+              <span class="funnel-progress width-10-p">
+                <label class="padding-r-10">10</label>
+              </span>
+            </div>
+          </div>
+        </div> -->
