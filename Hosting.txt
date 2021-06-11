@@ -1,0 +1,11 @@
+
+gcloud config set project fsi-capability
+
+rm -r cash-to-connect
+mkdir cash-to-connect
+gsutil rsync -r gs://fsi-cash-to-connect-bucket ./cash-to-connect
+cd cash-to-connect
+gcloud app deploy 
+
+
+https://qp-fsi-capability-2021-04.uc.r.appspot.com
